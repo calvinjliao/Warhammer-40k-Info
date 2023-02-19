@@ -1,0 +1,52 @@
+{
+  "version": "Arks of Omen",
+  "name": "Desperate Raid",
+  "primaries": {
+    "holdmin": 2,
+    "holdmax": 3,
+  },
+  "markers": [
+    { "x": 0,
+      "y": 8
+    },
+    { "x": 0,
+      "y": -8
+    },
+    { "x": 16,
+      "y": -10
+    },
+    { "x": 16,
+      "y": 6
+    },
+    { "x": -16,
+      "y": -6
+    },
+    { "x": -16,
+      "y": 10
+    }
+  ],
+  "walls": {
+    "attack": [
+      { "type": "line"
+        "x1": -15,
+        "y1": -12,
+        "x2": 15,
+        "y2": -12
+      }
+    ],
+    "defend": [
+      { "type": "line"
+        "x1": -15,
+        "y1": 12,
+        "x2": 15,
+        "y2": 12
+      }
+    ],
+    "neutral": []
+  },
+  "description": "At the end of each player’s turn, the player whose turn it is scores 3VP if they control at least one of the objective markers in their opponent’s deployment zone.
+                  \n\
+                  In this mission, if a player controls an objective marker at the end of their Command phase and one or more of their units that are within range of it has the Objective Secured ability, it remains under that players control unless their opponent controls it at the end of any subsequent phase, even if there are no models within range of it.
+                  \n\n
+                  In this mission, a player receives one additional Command point at the start of their Command phase if they control one or both of the objective markers in their opponent’s deployment zone (this is in addition to the Battle-forged CP bonus)."
+}

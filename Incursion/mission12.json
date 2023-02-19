@@ -1,0 +1,71 @@
+{
+  "version": "Arks of Omen",
+  "name": "Deliverance",
+  "primaries": {
+    "holdmin": 1,
+    "holdmax": 2,
+  },
+  "markers": [
+    { "x": -9,
+      "y": 12
+    },
+    { "x": 9,
+      "y": 12
+    },
+    { "x": -9,
+      "y": -12
+    },
+    { "x": 9,
+      "y": -12
+    },
+    { "x": 0,
+      "y": 0
+    }
+  ],
+  "walls": {
+    "attack": [
+      { "type": "line"
+        "x1": 0,
+        "y1": 9,
+        "x2": 0,
+        "y2": 22
+      },
+      { "type": "line"
+        "x1": -9,
+        "y1": 0,
+        "x2": -15,
+        "y2": 0
+      }
+    ],
+    "defend": [
+      { "type": "line"
+        "x1": 0,
+        "y1": -9,
+        "x2": 0,
+        "y2": -22
+      },
+      { "type": "line"
+        "x1": 9,
+        "y1": 0,
+        "x2": 15,
+        "y2": 0
+      }
+    ],
+    "neutral": [
+      { "type": "circle"
+        "x": 0,
+        "y": 0,
+        "r": 9
+      }
+    ]
+  },
+  "description": "In the third, fourth and fifth battle rounds:
+                  \nAt the end of each player’s turn, the player whose turn it is scores a number of VP for each objective marker they control that is in no man’s land:
+                  \nBattle round 3: 2 VP
+                  \nBattle round 4: 3 VP
+                  \nBattle round 5: 4 VP
+                  \n\n
+                  At the start of the third battle round, the Defender randomly selects one objective marker that is in no man’s land to be the Gamma objective marker.
+                  At the start of the fourth battle round, the Gamma objective marker is removed from the battlefield and the Attacker then randomly selects one of the two remaining objective markers that are in no man’s land to be the Beta objective marker.
+                  At the start of the fifth battle round, the Beta objective marker is removed from the battlefield."
+}

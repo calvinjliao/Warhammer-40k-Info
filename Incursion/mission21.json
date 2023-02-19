@@ -1,0 +1,48 @@
+{
+  "version": "Arks of Omen",
+  "name": "Sacred Ground",
+  "primaries": {
+    "holdmin": 2,
+    "holdmax": 3,
+  },
+  "markers": [
+    { "x": 0,
+      "y": 16.87
+    },
+    { "x": 0,
+      "y": -8
+    },
+    { "x": 0,
+      "y": -16.87
+    },
+    { "x": 0,
+      "y": 8
+    }
+  ],
+  "walls": {
+    "attack": [
+      { "type": "line"
+        "x1": -15,
+        "y1": -12,
+        "x2": 15,
+        "y2": -12
+      }
+    ],
+    "defend": [
+      { "type": "line"
+        "x1": -15,
+        "y1": 12,
+        "x2": 15,
+        "y2": 12
+      }
+    ],
+    "neutral": []
+  },
+  "description": "At the end of each player’s turn:
+                  \nScore 2 VP if you control the objective marker in your opponent's deployment zone
+                  \nLose 1 VP if you do NOT control the objective marker in your own deployment zone
+                  \nScore 1 VP for all other objective markers you control
+                  \n\n
+                  During your command phase:
+                  \nIf you do NOT control the objective marker in your own deployment zone, roll one D6, on a 1-3, you do not gain the Battle-Forged CP bonus"
+}
