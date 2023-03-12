@@ -1,0 +1,127 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Purge the Enemy",
+      "objectives": [
+        {
+          "name": "Assassination",
+          "description": "•Score 3 VP for each enemy CHARACTER unit that is destroyed
+                          •Score 1 additional VP if the enemy WARLORD is destroyed.
+
+                          • At the end of the battle round, if any enemy CHARACTER units were destroyed as a result of an attack made by a Troops unit, an ARMIGER-CLASS unit or a WAR DOG-CLASS unit from your army this battle round, you gain 1 Command point."
+        },
+        {
+          "name": "Bring it Down",
+          "description": "At the end of the battle, score victory points for each enemy MONSTER or VEHICLE model that is destroyed:
+                          •Score 1 VP for each of those destroyed models with a Wounds characteristic of 9 or less.
+                          •Score 2 VP for each of those destroyed models with a Wounds characteristic of 10-14.
+                          •Score 3 VP for each of those destroyed models with a Wounds characteristic of 15-19.
+                          •Score 4 VP for each of those destroyed models with a Wounds characteristic of 20 or more."
+        }
+      ]
+    },
+    {
+      "name": "No Mercy, No Respite",
+      "objectives": [
+        {
+          "name": "Grind Them Down",
+          "description": "At the end of the battle round:
+                          •Score 3VP if more enemy units than friendly units were destroyed this battle round.
+                          •If one or more enemy units were destroyed by Troops units, ARMIGER-CLASS units or WAR DOG-CLASS units from your army this battle round, you gain 1 Command point."
+        },
+        {
+          "name": "No Prisoners",
+          "description": "If you select this objective, keep a Kill Points tally. Each time an enemy model is destroyed (excluding VEHICLE, MONSTER or CHARACTER models), add a number of marks to this tally equal to the Wounds characteristic of the destroyed model.
+                          •At the end of the battle, divide your Kill Points tally by 10 and round down - the result is the number of VP you score.
+                          •If your Kill Points tally is between 50 and 99, you score 1 additional VP.
+                          •If your Kill Points tally is 100 or more, you score 2 additional VP."
+        }
+      ]
+    },
+    {
+      "name": "Warpcraft",
+      "objectives": [
+        {
+          "name": "Abhor the Witch",
+          "description": "You cannot select this secondary objective if your army includes any PSYKER units.
+                          •Score 3 VP at the end of the battle for each enemy PSYKER CHARACTER unit that is destroyed, and 2 VP for every other enemy PSYKER unit that is destroyed."
+        },
+        {
+          "name": "Warp Ritual",
+          "description": "If you select this objective, keep a Ritual Points tally; add 1 to that tally each time a unit from your army completes the following psychic action during the battle:
+
+                          Warp Ritual (Psychic Action - Warp Charge 4): One PSYKER CHARACTER unit from your army can attempt to perform this psychic action in your Psychic phase if it is within 6\" of the centre of the battlefield.
+
+                          At the end of the battle, score 3 VP if your Ritual Points tally is 1, score 7 VP if your tally is 2, or score 12 VP if your tally is 3 or more."
+        },
+        {
+          "name": "Psychic Interrogation",
+          "description": "Score 3 VP each time you successfully complete the following psychic action:
+
+                          Psychic Interrogation (Psychic Action - Warp Charge 5): One PSYKER CHARACTER unit from your army can attempt to perform this psychic action in your Psychic phase if it is within 24\" of and visible to any enemy CHARACTER units.
+
+                          In addition, if the result of the Psychic test is equal to or greater than the Leadership characteristic of any enemy CHARACTER models within 24\" of the PSYKER unit that completed this psychic action, you gain 1 Command point at the end of the phase."
+        }
+      ]
+    },
+    {
+      "name": "Battlefield Supremacy",
+      "objectives": [
+        {
+          "name": "Behind Enemy Lines",
+          "description": "•Score 3 VP at the end of your turn if one unit from your army (excluding AIRCRAFT units) is wholly within your opponent’s deployment zone.
+                          •Score 4 VP at the end of your turn instead if two or more units from your army (excluding AIRCRAFT units) are wholly within your opponent’s deployment zone.
+
+                          •If one or more of those units is a Troops unit, an ARMIGER-CLASS unit or a WAR DOG-CLASS unit, you gain 1 Command point at the end of the current battle round."
+        },
+        {
+          "name": "Engage On All Fronts",
+          "description": "•Score 2 VP at the end of your turn if you have one or more qualifying units from your army wholly within three different table quarters, and those units are all more than 6\" away from any other table quarter.
+                          •Score 3 VP instead if you have one or more qualifying units from your army wholly within each table quarter, and those units are all more than 3\" away from any other table quarter.
+                          •A qualifying unit is one that has a Starting Strength of 3 or more models, or one that contains 1 or more VEHICLE or MONSTER models (excluding AIRCRAFT models)."
+        }
+      ]
+    },
+    {
+      "name": "Shadow Operations",
+      "objectives": [
+        {
+          "name": "Raise the Banners High",
+          "description": "If you select this objective, units from your army can attempt the following action:
+
+                          Raise Banners (Action): One or more INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control and that does not have one of your banners raised on it.
+                          The action is completed at the end of your turn. If completed, that objective marker is said to have one of your army’s banners raised on it (the banner is ‘removed’ if your opponent controls the objective marker at the start of any Command phase).
+
+                          Score 1 VP at the end of each of your Command phases, and 1VP at the end of the battle, for each objective marker on the battlefield that has one of your banners raised on it."
+        },
+        {
+          "name": "Retrieve Battlefield Data",
+          "description": "If you select this objective, keep a Retrieved Data tally. In addition, units from your army can attempt the following action:
+
+                          Retrieve Data (Action): One INFANTRY or BIKER unit from your army can start to perform this action at the end of your Movement phase if it is wholly within a table quarter that has not had a servo-skull retrieved by your army (see below) and it is more than 6\" away from any other table quarter.
+                          This action is completed at the end of your turn provided the unit performing it is still within the same table quarter. If completed, roll one D6, subtracting 1 from the result if the unit that completed the action has the Troops Battlefield Role: if the result is less than or equal to the number of models currently in that unit, that table quarter is said to have had a servo-skull retrieved by your army and you add 1 to your Retrieved Data tally.
+
+                          At the end of the battle, score 4 VP if your Retrieved Data tally is 2, score 8VP if your tally is 3, or score 12VP if your tally is 4."
+        }
+      ]
+    },
+    {
+      "name": "Factions",
+      "objectives": [
+        {
+          "name": "Imperium",
+          "url": "temporary"
+        },
+        {
+          "name": "Chaos",
+          "url": "temporary"
+        },
+        {
+          "name": "Xenos",
+          "url": "temporary"
+        }
+      ]
+    }
+  ]
+}

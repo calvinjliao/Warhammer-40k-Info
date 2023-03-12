@@ -1,0 +1,23 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Auric Mortalis",
+      "type": "Purge the Enemy",
+      "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, select one PRIMARCH or SUPREME COMMANDER unit from your opponent’s army to be marked for death. If no such unit exists, select the unit from your opponent’s army with the highest points value (excluding AIRCRAFT units) to be marked for death. If two or more units are tied, you choose between them. A unit’s points value includes the points of all weapons, wargear and upgrades it has.
+                      •Score 5 VP if the unit you selected to be marked for death is destroyed.
+                      •Score 5 VP if the unit you selected to be marked for death was destroyed as a result of a melee attack made by an ADEPTUS CUSTODES or ANATHEMA PSYKANA unit from your army.
+                      •Score 5 VP if both of the above are true and the unit you selected to be marked for death was not within your deployment zone when it was destroyed."
+    },
+    {
+      "name": "Might of Terra",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, score 4 VP if one or more enemy units were destroyed this battle round by an ADEPTUS CUSTODES unit from your army and no ADEPTUS CUSTODES units from your army were destroyed this battle round."
+    },
+    {
+      "name": "Stand Vigil",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of the battle round, score 3 VP if you control more objective markers that are not within either player’s deployment zone than your opponent does."
+    },
+  ]
+}

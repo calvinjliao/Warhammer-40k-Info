@@ -1,0 +1,41 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Asuryani",
+      "url": "temporary"
+    },
+    {
+      "name": "Drukhari",
+      "url": "temporary"
+    },
+    {
+      "name": "Genestealer Cults",
+      "url": "temporary"
+    },
+    {
+      "name": "Harlequins",
+      "url": "temporary"
+    },
+    {
+      "name": "Leagues of Votann",
+      "url": "temporary"
+    },
+    {
+      "name": "Necrons",
+      "url": "temporary"
+    },
+    {
+      "name": "Orks",
+      "url": "temporary"
+    },
+    {
+      "name": "T'au Empire",
+      "url": "temporary"
+    },
+    {
+      "name": "Tyranids",
+      "url": "temporary"
+    },
+  ]
+}

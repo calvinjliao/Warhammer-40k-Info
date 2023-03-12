@@ -1,0 +1,24 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Accretion of Knowledge",
+      "type": "Purge the Enemy",
+      "description": "At the end of the battle, score 3 VP for each enemy model that is destroyed that meets one or more of the following criteria:
+                      •The model has a Warlord Trait.
+                      •The model has a Relic.
+                      •The model has the VEHICLE keyword and a Wounds characteristic of 8 or more."
+    },
+    {
+      "name": "Eradication of Flesh",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, score 4 VP if more enemy units were destroyed by ADEPTUS MECHANICUS VEHICLE units from your army this battle round than the number of ADEPTUS MECHANICUS VEHICLE units from your army that were destroyed by enemy units this battle round."
+    },
+    {
+      "name": "Hidden Archeovault",
+      "type": "Battlefield Supremacy",
+      "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, your opponent must select one objective marker on the battlefield not within their deployment zone to be the Hidden Archeovault objective marker (if the only objective marker on the battlefield is in the enemy’s deployment zone, then this must be the Hidden Archeovault objective marker).
+                      At the end of your turn, score 5 VP if you control the Hidden Archeovault objective marker and an ADEPTUS MECHANICUS unit from your army is within range of that objective marker."
+    },
+  ]
+}

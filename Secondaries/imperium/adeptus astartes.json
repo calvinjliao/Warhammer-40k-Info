@@ -1,0 +1,25 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Codex Warfare",
+      "type": "Purge the Enemy",
+      "description": "•Score 2 VP for each enemy unit that was destroyed as the result of an attack made with a Heavy or Grenade weapon by an ADEPTUS ASTARTES unit from your army while the Devastator Doctrine was active for your army.
+                      •Score 1 VP for each enemy unit that was destroyed as the result of an attack made with a Rapid Fire or Assault weapon by an ADEPTUS ASTARTES unit from your army while the Tactical Doctrine was active for your army.
+                      •Score 1 VP for each enemy unit that was destroyed as the result of an attack made with a Pistol or Melee weapon by an ADEPTUS ASTARTES unit from your army while the Assault Doctrine was active for your army."
+    },
+    {
+      "name": "Oaths of Moment",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, score victory points for achieving the following three Oaths:
+                      •Oath of Valour: Score 1 VP if any CHARACTER, VEHICLE or MONSTER unit was destroyed by an ADEPTUS ASTARTES unit from your army this battle round.
+                      •Oath of Honour: Score 1 VP provided no ADEPTUS ASTARTES units from your army failed a Morale test this battle round, and no ADEPTUS ASTARTES units from your army Fell Back this battle round.
+                      •Oath of Duty: Score 2 VP if an ADEPTUS ASTARTES unit from your army is wholly within 6\" of the centre of the battlefield."
+    },
+    {
+      "name": "Shock Tactics",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of your turn, score 4 VP if you control one or more objective markers that were controlled by your opponent at the start of that turn, and an ADEPTUS ASTARTES unit from your army is within range of that objective marker."
+    },
+  ]
+}

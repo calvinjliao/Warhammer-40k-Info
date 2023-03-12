@@ -1,0 +1,61 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Alpha Legion",
+      "url": "temporary"
+    },
+    {
+      "name": "Black Legion",
+      "url": "temporary"
+    },
+    {
+      "name": "Chaos Daemons",
+      "url": "temporary"
+    },
+    {
+      "name": "Chaos Knights",
+      "url": "temporary"
+    },
+    {
+      "name": "Creations of Bile",
+      "url": "temporary"
+    },
+    {
+      "name": "Death Guard",
+      "url": "temporary"
+    },
+    {
+      "name": "Emperor's Children",
+      "url": "temporary"
+    },
+    {
+      "name": "Iron Warriors",
+      "url": "temporary"
+    },
+    {
+      "name": "Night Lords",
+      "url": "temporary"
+    },
+    {
+      "name": "Red Corsairs",
+      "url": "temporary"
+    },
+    {
+      "name": "Thousand Sons",
+      "url": "temporary"
+    },
+    {
+      "name": "Traitoris Astartes",
+      "url": "temporary"
+    },
+    {
+      "name": "Word Bearers",
+      "url": "temporary"
+    },
+    {
+      "name": "World Eaters",
+      "url": "temporary"
+    },
+  ]
+}

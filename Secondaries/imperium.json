@@ -1,0 +1,77 @@
+{
+  "version": "Arks of Omen",
+  "objectives": [
+    {
+      "name": "Adepta Sororitas",
+      "url": "temporary"
+    },
+    {
+      "name": "Adeptus Astartes",
+      "url": "temporary"
+    },
+    {
+      "name": "Adeptus Custodes",
+      "url": "temporary"
+    },
+    {
+      "name": "Adeptus Mechanicus",
+      "url": "temporary"
+    },
+    {
+      "name": "Astra Militarum",
+      "url": "temporary"
+    },
+    {
+      "name": "Black Templars",
+      "url": "temporary"
+    },
+    {
+      "name": "Blood Angels",
+      "url": "temporary"
+    },
+    {
+      "name": "Dark Angels",
+      "url": "temporary"
+    },
+    {
+      "name": "Deathwatch",
+      "url": "temporary"
+    },
+    {
+      "name": "Grey Knights",
+      "url": "temporary"
+    },
+    {
+      "name": "Imperial Fists",
+      "url": "temporary"
+    },
+    {
+      "name": "Imperial Knights",
+      "url": "temporary"
+    },
+    {
+      "name": "Iron Hands",
+      "url": "temporary"
+    },
+    {
+      "name": "Raven Guard",
+      "url": "temporary"
+    },
+    {
+      "name": "Salamanders",
+      "url": "temporary"
+    },
+    {
+      "name": "Space Wolves",
+      "url": "temporary"
+    },
+    {
+      "name": "Ultramarines",
+      "url": "temporary"
+    },
+    {
+      "name": "White Scars",
+      "url": "temporary"
+    },
+  ]
+}
