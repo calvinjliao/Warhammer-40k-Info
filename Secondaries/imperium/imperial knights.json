@@ -1,0 +1,37 @@
+{
+  "version": "Arks of Omen",
+  "name": "Imperial Fists",
+  "objectives": [
+    {
+      "name": "Honour of the House",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, if you have 6 Honour points or if you have more Honour points than you had at the start of the battle round, score 2VP.
+
+                      In addition, at the end of the battle:
+                      •Score 3 additional VP if your army is Virtuous.
+                      •Score 2 additional VP if your army is Honoured.
+                      •If your army is Dishonoured, reduce the number of VP you have scored from this secondary objective by 3 (to a minimum of 0)."
+    },
+    {
+      "name": "Yield no Ground",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of your turn, score 1VP for each of the following conditions you satisfy (for a maximum of 3VP):
+                      •You control half or more of the total number of objective markers on the battlefield, and one or more IMPERIAL KNIGHTS models from your army are within range of each of those objective markers.
+                      •No enemy units (excluding AIRCRAFT units) are wholly within your deployment zone.
+                      •No IMPERIAL KNIGHTS units from your army ended that turn closer to your battlefield edge than they were at the start of that turn, and no IMPERIAL KNIGHTS units from your army Fell Back that turn."
+    },
+    {
+      "name": "Renew the Oaths",
+      "type": "Shadow Operations",
+      "description": "If you select this objective. IMPERIAL KNIGHTS units from your army can attempt the following action:
+
+                      Renew the Oaths (Action): One IMPERIAL KNIGHTS model from your army can start to perform this action at the end of your Movement phase if it is within 6\" of the centre of the battlefield. This action is completed at the end of your turn provided the unit performing it is still within 6\" of the centre of the battlefield.
+
+                      Each time a unit from your army completes this action:
+                      •Score 3 VP if the action was completed by a non-TITANIC model.
+                      •Score 4 VP if the action was completed by a TITANIC model.
+                      •Score 1 additional VP if the action was completed by a CHARACTER model.
+                      •Roll one D6: on a 4+, you gain 1 Honour point."
+    },
+  ]
+}

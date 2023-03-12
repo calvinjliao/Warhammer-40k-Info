@@ -1,0 +1,16 @@
+{
+  "version": "Arks of Omen",
+  "name": "Dark Angels",
+  "objectives": [
+    {
+      "name": "Stubborn Defiance",
+      "type": "Battlefield Supremacy",
+      "description": "In your first Command phase, select one objective marker that is not within your deployment zone. At the end of each of your Command phases, if you control that objective marker and a DARK ANGELS unit from your army with the Objective Secured ability is within range of it, score a number of victory points based on the consecutive number of your Command phases you have controlled that objective marker for and had that unit within range of it, as follows:
+                      •1: 1 VP
+                      •2: 2 VP
+                      •3: 3 VP
+                      •4: 4 VP
+                      •5: 5 VP"
+    },
+  ]
+}

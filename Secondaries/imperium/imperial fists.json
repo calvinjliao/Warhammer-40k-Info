@@ -1,0 +1,16 @@
+{
+  "version": "Arks of Omen",
+  "name": "Imperial Fists",
+  "objectives": [
+    {
+      "name": "Cull Order",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, IMPERIAL FISTS units from your army can attempt the following action:
+                      Bolster Barricades (Action): One or more IMPERIAL FISTS CORE INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit that does so must be within range of an objective marker you control that has not been barricaded by your army. The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first), provided the unit performing it is still within range of the same objective marker. If completed, that objective marker is said to have been barricaded by your army.
+                      Each time a unit from your army completes this action:
+                      •If the objective marker that was barricaded by that action was within your deployment zone, score 1 VP.
+                      •If the objective marker that was barricaded by that action was not within either player’s deployment zone, score 4 VP.
+                      •Until the end of the battle, each time an enemy unit makes an attack that targets an IMPERIAL FISTS INFANTRY unit from your army that is wholly within 6\" of an objective marker that has been barricaded by your army, that unit receives the benefits of Light Cover and Heavy Cover against that attack."
+    },
+  ]
+}

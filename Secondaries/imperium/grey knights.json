@@ -1,0 +1,33 @@
+{
+  "version": "Arks of Omen",
+  "name": "Grey Knights",
+  "objectives": [
+    {
+      "name": "Destroy the Daemon",
+      "type": "Purge the Enemy",
+      "description": "At the end of the battle, score victory points for each enemy unit destroyed by a GREY KNIGHTS unit from your army during the battle as follows:
+                      •DAEMON PRIMARCH unit - score 5 VP.
+                      •Any other DAEMON MONSTER unit - score 3 VP.
+                      •DAEMON VEHICLE unit - score 3 VP.
+                      •Any other DAEMON unit - score 1 VP."
+    },
+    {
+      "name": "Teleport Assault",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, score 5 VP if one or more enemy units were destroyed by a GREY KNIGHTS model from your army that was set up on the battlefield using the Teleport Strike ability, the Teleportation Shunt Stratagem or the Gate of Infinity psychic power this battle round."
+    },
+    {
+      "name": "Purifying Ritual",
+      "type": "Warpcraft",
+      "description": "If you select this objective, GREY KNIGHTS PSYKER units from your army can attempt the following psychic action:
+
+                      Purifying Ritual (Psychic Action - Warp Charge 6): One or more GREY KNIGHTS PSYKER units from your army can attempt to perform this psychic action in your Psychic phase. Each unit from your army that starts to perform this psychic action must be within range of a different objective marker you control that has not been purified by your army this turn. If this psychic action is completed, that objective marker is said to have been purified by your army this turn.
+
+                      At the end of your turn, score VP depending on the number of objective markers purified by your army this turn:
+                      •1: 1 VP
+                      •2: 2 VP
+                      •3: 4 VP
+                      •4+: 5 VP"
+    },
+  ]
+}
