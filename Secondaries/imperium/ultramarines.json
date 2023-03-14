@@ -1,0 +1,16 @@
+{
+  "version": "Arks of Omen",
+  "name": "Ultramarines",
+  "objectives": [
+    {
+      "name": "We March for Macragge",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, ULTRAMARINES CORE INFANTRY units from your army can attempt the following action:
+
+                      Claimed for Macragge (Action): One or more ULTRAMARINES CORE INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control that has not been claimed for Macragge by your army. The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been claimed for Macragge by your army.
+
+                      Score 4 VP each time a unit from your army completes this action."
+    },
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "Arks of Omen",
+  "name": "Iron Warriors",
+  "objectives": [
+    {
+      "name": "Masters of Demolition",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, your opponent must set up three objective markers anywhere on the battlefield that are on ground level, not within 9\" of each other, and not within 6\" of any battlefield edge. These objective markers cannot be set up on terrain features with the Unstable Position terrain trait, and no more than one of them can be set up within 6\" of your opponent’s deployment zone. If it is impossible to set up an objective marker, it is not set up. Each represents a demolition site, but does not count as an objective marker for any rules purposes other than for this objective. IRON WARRIORS INFANTRY units from your army can attempt the following action:
+
+                      Total Demolition (Action): One IRON WARRIORS INFANTRY unit (excluding CHARACTER units) from your army can start to perform this action at the end of your Movement phase if it is within range of a demolition site objective marker that you control. This action is completed at the end of the turn, provided the unit performing it is still within range of the same objective marker. If completed, that objective marker is said to have been demolished by your army, and is removed from the battlefield.
+
+                      At the end of the battle, score 4 VP for each demolition site objective marker that was demolished by your army. Score an additional 4 VP if a demolition site objective marker that was within 6\" of your opponent’s deployment zone was demolished by your army."
+    },
+  ]
+}

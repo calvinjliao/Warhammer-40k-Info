@@ -99,7 +99,7 @@
           "name": "Retrieve Battlefield Data",
           "description": "If you select this objective, keep a Retrieved Data tally. In addition, units from your army can attempt the following action:
 
-                          Retrieve Data (Action): One INFANTRY or BIKER unit from your army can start to perform this action at the end of your Movement phase if it is wholly within a table quarter that has not had a servo-skull retrieved by your army (see below) and it is more than 6\" away from any other table quarter.
+                          Retrieve Data (Action): One INFANTRY or BIKER unit from your army can start to perform this action at the end of your Movement phase if it is wholly within a table quarter that has not had a servo-skull retrieved by your army and it is more than 6\" away from any other table quarter.
                           This action is completed at the end of your turn provided the unit performing it is still within the same table quarter. If completed, roll one D6, subtracting 1 from the result if the unit that completed the action has the Troops Battlefield Role: if the result is less than or equal to the number of models currently in that unit, that table quarter is said to have had a servo-skull retrieved by your army and you add 1 to your Retrieved Data tally.
 
                           At the end of the battle, score 4 VP if your Retrieved Data tally is 2, score 8VP if your tally is 3, or score 12VP if your tally is 4."

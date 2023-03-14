@@ -1,0 +1,16 @@
+{
+  "version": "Arks of Omen",
+  "name": "Red Corsairs",
+  "objectives": [
+    {
+      "name": "Raid and Reave",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, RED CORSAIRS INFANTRY and RED CORSAIRS BIKER units from your army can attempt the following action:
+
+                      Raid and Reave (Action): One or more RED CORSAIRS INFANTRY or RED CORSAIRS BIKER units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker that has not been raided by your army (see below). A unit cannot start this action while there are any enemy units (excluding AIRCRAFT units) within range of the same objective marker. The action is completed at the end of your turn, provided the unit performing it is still within range of the same objective marker. If completed, that objective marker is said to have been raided by your army, and until the end of the battle the unit that performed the action is said to be carrying spoils of war.
+
+                      Each time a unit from your army completes this action, if the objective marker that was raided as a result was wholly within your deployment zone, score 1 VP; if that objective marker was wholly within your opponent’s deployment zone, score 3 VP; otherwise, score 2 VP.
+                      At the end of the battle, score 1 VP for each RED CORSAIRS unit from your army that is carrying spoils of war (score 2VP instead if that unit, or a TRANSPORT model it is embarked within, is wholly within your deployment zone)."
+    },
+  ]
+}

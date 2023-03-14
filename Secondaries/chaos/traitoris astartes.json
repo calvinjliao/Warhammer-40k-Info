@@ -1,0 +1,33 @@
+{
+  "version": "Arks of Omen",
+  "name": "Traitoris Astartes",
+  "objectives": [
+    {
+      "name": "Rise to Glory",
+      "type": "Purge the Enemy",
+      "description": "At the end of the battle round, score 3 VP for each CHARACTER, MONSTER or VEHICLE model destroyed that battle round by an attack made by a TRAITORIS ASTARTES CHARACTER model from your army. If such a destroyed model had a Wounds characteristic of 10-19, score 1 additional VP for destroying that model, or 2 additional VP for destroying that model if it had the TITANIC keyword or was the enemy WARLORD. You can score a maximum of 5 VP per battle round from this secondary objective.
+                      Each time a CHARACTER, MONSTER or VEHICLE model is destroyed by a melee attack made by a TRAITORIS ASTARTES CHARACTER model from your army, roll 2 D6. If the result is less than the Wounds characteristic of the destroyed model, gain 1 Command point at the end of the phase."
+    },
+    {
+      "name": "The Long War",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of your turn:
+
+                      •Score 1 VP for each enemy unit that was destroyed by a TRAITORIS ASTARTES unit from your army this turn and was within range of an objective marker at the start of this turn.
+                      •Score 2 VP if you control any objective markers that were controlled by your opponent at the start of this turn and a TRAITORIS ASTARTES unit from your army is within range of any of those objective markers.
+
+                      You can score a maximum of 4 VP per turn from this secondary objective."
+    },
+    {
+      "name": "For the Dark Gods",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, keep a For the Dark Gods tally; add 1 to that tally each time a unit from your army dedicates a table quarter to a Chaos God by performing the following action:
+
+                      For the Dark Gods (Action): One TRAITORIS ASTARTES INFANTRY or TRAITORIS ASTARTES BIKER unit from your army can start to perform this action at the end of your Movement phase if it is wholly within a table quarter that has not been dedicated to a Chaos God by your army (see below) and it is within 6\" of the centre of that table quarter. If the unit performing this action had the Objective Secured ability when it started performing this action, the action is completed at the end of your turn; otherwise, the action is completed at the start of your next Command phase. In any case, the action is only completed if the unit performing it is still within 6\" of the centre of the same table quarter. If completed, select either Khorne, Tzeentch, Nurgle or Slaanesh to dedicate that table quarter to. If this action is completed by a KHORNE, TZEENTCH, NURGLE or SLAANESH unit, that unit can only dedicate that table quarter to their patron deity. That table quarter is said to have been dedicated to that Chaos God by your army. The same table quarter cannot be dedicated to more than one Chaos God by your army.
+
+                      If a table quarter has been dedicated to a Chaos God by your army, then while a TRAITORIS ASTARTES unit from your army is wholly within that table quarter, add 2 to the Leadership characteristic of that unit, unless that Chaos God is not their patron deity.
+
+                      At the end of the battle, score 2 VP if your For the Dark Gods tally is 1; score 5 VP if that tally is 2; score 9 VP if that tally is 3; score 14 VP if that tally is 4."
+    },
+  ]
+}

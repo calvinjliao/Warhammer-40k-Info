@@ -1,0 +1,32 @@
+{
+  "version": "Arks of Omen",
+  "name": "Chaos Knights",
+  "objectives": [
+    {
+      "name": "Path of Destruction",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of the battle round, score 1 VP for each of the following conditions that were satisfied this battle round (for a maximum of 4 VP):
+                      •One or more enemy units were destroyed by a CHAOS KNIGHTS model from your army while that CHAOS KNIGHTS model was wholly within your deployment zone.
+                      •One or more enemy units were destroyed by a CHAOS KNIGHTS model from your army while that CHAOS KNIGHTS model was not in either player’s deployment zone.
+                      •One or more enemy units were destroyed by a CHAOS KNIGHTS model from your army while that CHAOS KNIGHTS model was wholly within your opponent’s deployment zone.
+                      •All three of the conditions above were satisfied this battle round."
+    },
+    {
+      "name": "Ruthless Tyranny",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of your turn:
+                      •Score 2 VP if you control half or more of the total number of objective markers on the battlefield and one or more CHAOS KNIGHTS models from your army are within range of each of those objective markers.
+                      •Score 1 VP if half or more of the total number of objective markers on the battlefield are within Dread range of one or more CHAOS KNIGHTS models from your army.
+                      •Score 2 VP if every objective marker on the battlefield is within Dread range of one or more CHAOS KNIGHTS models from your army."
+    },
+    {
+      "name": "Storm of Darkness",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, CHAOS KNIGHTS units from your army can attempt the following action:
+
+                      Storm of Darkness (Action): One CHAOS KNIGHTS unit from your army can start to perform this action at the end of your Morale phase if it is within range of an objective marker that has not already been cursed by your army. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT units) within range of the same objective marker. The action is completed at the end of your next Psychic phase, provided the unit performing it is still within range of the same objective marker. If completed, that objective marker is said to have been cursed by your army, and until the end of the battle, while a non-CHAOS unit is within 9\" of that objective marker, subtract 1 from the Leadership characteristic of models in that unit.
+
+                      Score 4 VP each time a unit from your army completes this action."
+    },
+  ]
+}

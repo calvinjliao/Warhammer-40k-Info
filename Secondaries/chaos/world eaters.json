@@ -1,0 +1,21 @@
+{
+  "version": "Arks of Omen",
+  "name": "World Eaters",
+  "objectives": [
+    {
+      "name": "Blood for the Blood God",
+      "type": "Purge the Enemy",
+      "description": "At the end of the battle round, provided no WORLD EATERS units from your army have Fallen Back this battle round, score 2 VP for each enemy MONSTER, CHARACTER or VEHICLE unit that was destroyed by melee attacks made by WORLD EATERS models from your army this battle round, and score 1 VP for each other enemy unit that was destroyed by melee attacks made by WORLD EATERS models from your army this battle round (to a maximum of 4 VP per battle round)."
+    },
+    {
+      "name": "The Blood God's Due",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of each player’s turn, score 1 VP for each objective marker on the battlefield that was Drowned in Blood that turn. For an objective marker to be Drowned in Blood, one or more units (excluding VEHICLE units) that started that turn within range of that objective marker must have been destroyed that turn."
+    },
+    {
+      "name": "Pile the Skulls",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of each battle round, before purchasing any Blessings of the Blood God, you can discard 1, 2 or 3 Blood Tithe points. If you do so, you score 2 VP for each Blood Tithe point discarded (to a maximum of 5 VP per battle round)."
+    },
+  ]
+}

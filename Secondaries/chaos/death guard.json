@@ -1,0 +1,31 @@
+{
+  "version": "Arks of Omen",
+  "name": "Death Guard",
+  "objectives": [
+    {
+      "name": "Fleeing Vectors",
+      "type": "No Mercy, No Respite",
+      "description": "•At the end of each player’s turn, score 2 VP if seven or more enemy models were destroyed by attacks made by DEATH GUARD models from your army that turn. If seven or more of those enemy models were destroyed by attacks made with plague weapons that turn, score 1 additional VP.
+                      •At the end of each Morale phase, score 2 VP if one or more enemy units failed a Morale test that phase. If any of those enemy units had one or more models destroyed by attacks made with plague weapons this turn, score 1 additional VP."
+    },
+    {
+      "name": "Despoiled Ground",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of the battle, score 3 VP for each of the following conditions you satisfy:
+                      •One or more DEATH GUARD units from your army are wholly within your opponent’s deployment zone and one or more DEATH GUARD units from your army are wholly within your deployment zone.
+                      •One or more DEATH GUARD units from your army are wholly within three different table quarters, and those units are all more than 3\" from any other table quarter.
+                      •One or more DEATH GUARD units from your army are wholly within four different table quarters, and those units are all more than 3\" from any other table quarter.
+                      •You control half or more of the total number of objective markers on the battlefield and there are DEATH GUARD units from your army within range of each of those objective markers.
+                      •Every objective marker on the battlefield is within Contagion range of one or more Contagion abilities that DEATH GUARD units from your army have."
+    },
+    {
+      "name": "Spread the Sickness",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, DEATH GUARD INFANTRY units from your army can attempt the following action:
+
+                      Spread the Sickness (Action): One DEATH GUARD INFANTRY unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker you control that has not been contaminated by your army. The action is completed at the end of your turn. If completed, if the unit that performed the action has the Objective Secured ability, that objective marker is said to have been contaminated by your army. Otherwise, roll one D6: on a 4+, that objective marker is said to have been contaminated by your army.
+
+                      Score 3 VP each time an objective marker in your deployment zone is contaminated by your army, and score 4 VP each time an objective marker not in your deployment zone is contaminated by your army."
+    },
+  ]
+}

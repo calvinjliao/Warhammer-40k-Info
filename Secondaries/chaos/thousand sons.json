@@ -1,0 +1,32 @@
+{
+  "version": "Arks of Omen",
+  "name": "Thousand Sons",
+  "objectives": [
+    {
+      "name": "Sorcerous Prowess",
+      "type": "Purge the Enemy",
+      "description": "At the end of the battle:
+                      •Score 5 VP for each enemy PSYKER CHARACTER unit that was destroyed in the Psychic phase by a THOUSAND SONS PSYKER unit from your army.
+                      •Score 3 VP for each other enemy PSYKER unit that was destroyed in the Psychic phase by a THOUSAND SONS PSYKER unit from your army.
+                      •Score 2 VP for each other enemy unit that was destroyed in the Psychic phase by a THOUSAND SONS PSYKER unit from your army."
+    },
+    {
+      "name": "Mutate Landscape",
+      "type": "Warpcraft",
+      "description": "If you select this objective, THOUSAND SONS PSYKER units from your army can attempt the following psychic action:
+
+                      Mutate Landscape (Psychic Action - Warp Charge 5): One PSYKER unit from your army can attempt to perform this psychic action in your Psychic phase if it is within range of an objective marker you control that has not yet been mutated by your army. If this psychic action is completed, that objective marker is said to have been mutated by your army.
+
+                      Score 3 VP each time a unit from your army completes this psychic action."
+    },
+    {
+      "name": "Burn Empires",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, THOUSAND SONS INFANTRY units from your army can attempt the following action:
+
+                      Burn Empires (Action): One or more THOUSAND SONS INFANTRY units (excluding CHARACTER units) from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control that is not within your deployment zone and has not been burned by your army. The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been burned by your army.
+
+                      Score 4 VP each time a unit from your army completes this action."
+    },
+  ]
+}
