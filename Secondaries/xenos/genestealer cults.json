@@ -1,0 +1,38 @@
+{
+  "version": "Arks of Omen",
+  "name": "Genestealer Cults",
+  "objectives": [
+    {
+      "name": "Ambush",
+      "type": "Purge the Enemy",
+      "description": "At the end of your turn, score 2 VP for each of the following conditions you satisfy (to a maximum of 5 VP per turn):
+                      •One or more enemy units were destroyed this turn by units from your army while they had a crossfire marker.
+                      •One or more enemy units were destroyed this turn by units from your army that set up from ambush or from underground this turn.
+                      •One or more enemy units were destroyed this turn as a result of a ranged attack made by a model from your army, and that enemy unit was Exposed when it was selected as the target of that attack. Note, that enemy unit must have been Exposed as specified by codex, rather than by any other means."
+    },
+    {
+      "name": "Broodswarm",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of your turn, score 1VP for each of the following conditions you satisfy (for a maximum of 5 VP):
+                      •You have more models on the battlefield than your opponent does.
+                      •You have more models within your opponent’s deployment zone than your opponent does.
+                      •You have more models within your deployment zone than your opponent does.
+                      •You have more models on the battlefield that are within no man’s land than your opponent does.
+                      •All four of the above bullet points apply."
+    },
+    {
+      "name": "Sabotage Critical Location",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, your opponent must place 2 critical location markers on the battlefield. Each must be more than 9\" away from any battlefield edge and more than 9\" away from their other critical location marker. If both players must place these markers, the players alternate doing so, starting with the Defender.
+
+                      If you select this objective, GENESTEALER CULTS and BROOD BROTHERS units from your army can attempt the following action:
+                      Sabotage Critical Location (Action): One or more GENESTEALER CULTS INFANTRY, BROOD BROTHERS INFANTRY or GENESTEALER CULTS BIKER units from your army (excluding CHARACTER units other than REDUCTUS SABOTEUR units) can start to perform this action at the end of the Move Units step of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different one of your opponent’s critical location markers that you control. The action is completed at the end of your turn, provided the unit performing it is still within range of the same critical location marker. If completed, you have sabotaged that critical location; remove it from the battlefield.
+
+                      Score VP each time a unit from your army completes this action:
+                      •Battle Round 2: 10 VP
+                      •Battle Round 3: 8 VP
+                      •Battle Round 4: 7 VP
+                      •Battle Round 5: 6 VP"
+    },
+  ]
+}

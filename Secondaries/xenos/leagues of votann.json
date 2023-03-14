@@ -1,0 +1,26 @@
+{
+  "version": "Arks of Omen",
+  "name": "Leagues of Votann",
+  "objectives": [
+    {
+      "name": "The Ancestors Are Watching",
+      "type": "No Mercy, No Respite",
+      "description": "At the end of each phase, score 2 VP if one of more enemy units that had 1 or more Judgement tokens were destroyed by a VOTANN unit from your army that phase. Score an additional 1 VP for each of those enemy units that had 3 or more Judgement tokens when it was destroyed.
+                      At the end of the battle, reduce the number of victory points you have earned from this secondary objective by 1 (to a minimum of 0) for each unit that is on the battlefield (or that is embarked within a TRANSPORT model that is itself on the battlefield) that has 1 or more Judgement tokens."
+    },
+    {
+      "name": "Lay Claim",
+      "type": "Battlefield Supremacy",
+      "description": "If you select this secondary objective, during the Resolve Pre-battle Abilities step of the mission, your opponent must set up 3 objective markers anywhere on the battlefield that is at ground level, not within 6\" of their deployment zone or any battlefield edge, and not within 9\" of each other. These objective markers cannot be set up on terrain features with the Unstable Position terrain trait. If it is not possible to set up an objective marker in this way, it is not set up. Each represents your Precious Resources, but does not count as an objective marker for any rules purposes other than for this secondary objective. At the end of the battle, you score 5 VP for each of your Precious Resources objective markers you control."
+    },
+    {
+      "name": "Prospects of Wealth",
+      "type": "Shadow Operations",
+      "description": "If you select this objective, VOTANN INFANTRY and VOTANN BIKER units from your army can attempt the following action:
+
+                      Prospect (Action): One VOTANN INFANTRY or VOTANN BIKER unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker that is not within your deployment zone and has not already been prospected by your army. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT units) within range of the same objective marker. The action is completed at the end of the turn. If completed, that objective marker is said to have been prospected by your army and you must roll one D6, adding 1 to the result if the unit that completed the action has the SCANNER keyword: on a 6+, that objective marker is a Rich Deposits objective marker.
+
+                      Each time a unit from your army completes this action, you score 3 VP. At the end of the battle, if you control one or more Rich Deposits markers, you score an additional 3 VP."
+    },
+  ]
+}

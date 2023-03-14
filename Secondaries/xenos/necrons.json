@@ -1,0 +1,33 @@
+{
+  "version": "Arks of Omen",
+  "name": "Necrons",
+  "objectives": [
+    {
+      "name": "The Treasures of Aeons",
+      "type": "No Mercy, No Respite",
+      "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, your opponent must select 3 objective markers on the battlefield. When doing so, they cannot select objective markers that are in their deployment zone unless they have already selected all objective markers that are in no man’s land.
+                      At the end of your turn, score VP if you control one or more of those selected objective markers:
+                      •1 Marker: 2 VP
+                      •2 Markers: 3 VP
+                      •3 Markers: 4 VP"
+    },
+    {
+      "name": "Purge the Vermin",
+      "type": "Battlefield Supremacy",
+      "description": "At the end of your turn:
+                      •Score 1 VP for each table quarter that has no enemy units (excluding AIRCRAFT units) within it.
+                      •Score 1 VP if there are no enemy units (excluding AIRCRAFT units) within your deployment zone.
+
+                      This objective cannot be scored in the first battle round."
+    },
+    {
+      "name": "Ancient Machineries",
+      "type": "Shadow Operations",
+      "description": "If you select this secondary objective, NECRONS CORE and NECRONS CANOPTEK units from your army can attempt the following action:
+
+                      Awaken Ancient Machinery (Action): At the end of your Movement phase, one NECRONS CORE INFANTRY, NECRONS CORE BIKER or NECRONS CANOPTEK unit from your army can start to perform this action if it is within range of an objective marker you control that is not within your deployment zone and which has not already been awakened by your army. If the unit performing this action has the Objective Secured ability, the action is completed at the end of your turn; otherwise, it is completed at the start of your next Command phase. In any case, the action is only completed if the unit performing it is still within range of the same objective marker. If completed, that objective marker is said to have been awakened by your army.
+
+                      Score 4VP each time a unit from your army completes this action."
+    },
+  ]
+}
