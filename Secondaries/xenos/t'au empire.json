@@ -6,29 +6,29 @@
       "name": "A Clean Victory",
       "type": "No Mercy, No Respite",
       "description": "At the end of the battle round:
-                      •Score 1 VP if one or more enemy units were destroyed by T’AU EMPIRE units from your army this battle round.
-                      •Score 3 VP if three or more enemy units were destroyed by T’AU EMPIRE units from your army this battle round.
+•Score 1 VP if one or more enemy units were destroyed by T’AU EMPIRE units from your army this battle round.
+•Score 3 VP if three or more enemy units were destroyed by T’AU EMPIRE units from your army this battle round.
 
-                      If you selected the Mont’ka Tactical Philosophy at the start of the battle, you can only score victory points from this secondary objective at the end of battle rounds one, two and three. If you selected the Kauyon Tactical Philosophy at the start of the battle, you can only score victory points from this secondary objective at the end of battle rounds three, four and five."
+If you selected the Mont’ka Tactical Philosophy at the start of the battle, you can only score victory points from this secondary objective at the end of battle rounds one, two and three. If you selected the Kauyon Tactical Philosophy at the start of the battle, you can only score victory points from this secondary objective at the end of battle rounds three, four and five."
     },
     {
       "name": "Decisive Action",
       "type": "Battlefield Supremacy",
       "description": "•If you selected the Mont’ka Tactical Philosophy at the start of the battle, then at the end of your turn in battle rounds one, two and three, score 4 VP if you control half or more of the total number of objective markers on the battlefield.
-                      •If you selected the Kauyon Tactical Philosophy at the start of the battle, then at the end of your turn in battle rounds three, four and five, score 4 VP if you control half or more of the total number of objective markers on the battlefield."
+•If you selected the Kauyon Tactical Philosophy at the start of the battle, then at the end of your turn in battle rounds three, four and five, score 4 VP if you control half or more of the total number of objective markers on the battlefield."
     },
     {
       "name": "Aerospace Targeting Relays",
       "type": "Shadow Operations",
       "description": "If you select this objective, place an Aerospace Designation marker halfway along each battlefield edge. T’AU EMPIRE INFANTRY units from your army can attempt the following action:
 
-                      Install Targeting Relay (Action): One or more T’AU EMPIRE INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within 6\" of a different Aerospace Designation marker that has not had a targeting relay installed at it by your army. If a FIRE WARRIOR TEAM unit is performing this action, it is completed at the end of your turn; otherwise, it is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that Aerospace Designation marker is said to have had a targeting relay installed at it by your army.
+Install Targeting Relay (Action): One or more T’AU EMPIRE INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within 6\" of a different Aerospace Designation marker that has not had a targeting relay installed at it by your army. If a FIRE WARRIOR TEAM unit is performing this action, it is completed at the end of your turn; otherwise, it is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that Aerospace Designation marker is said to have had a targeting relay installed at it by your army.
 
-                      At the end of the battle, score a number of VP based on how many targeting relays were installed by your army:
-                      •1 Relay: 2 VP
-                      •2 Relay: 6 VP
-                      •3 Relay: 9 VP
-                      •4 Relay: 15 VP"
+At the end of the battle, score a number of VP based on how many targeting relays were installed by your army:
+•1 Relay: 2 VP
+•2 Relay: 6 VP
+•3 Relay: 9 VP
+•4 Relay: 15 VP"
     },
   ]
 }

@@ -6,23 +6,23 @@
       "name": "Nourished by Terror",
       "type": "No Mercy, No Respite",
       "description": "Each time an enemy model flees the battlefield, score 1VP.
-                      Each time an enemy unit is destroyed by a LEGIONES DAEMONICA unit from your army, before removing the last model in that destroyed unit from the battlefield, roll 2 D6: if the result equals or exceeds the Leadership characteristic of that enemy model, score 1 VP. A unit can, if it is resurrected for any reason, potentially contribute victory points due to this secondary objective several times."
+Each time an enemy unit is destroyed by a LEGIONES DAEMONICA unit from your army, before removing the last model in that destroyed unit from the battlefield, roll 2 D6: if the result equals or exceeds the Leadership characteristic of that enemy model, score 1 VP. A unit can, if it is resurrected for any reason, potentially contribute victory points due to this secondary objective several times."
     },
     {
       "name": "Reality Rebels",
       "type": "Battlefield Supremacy",
       "description": "At the end of your turn:
-                      •Score 1 VP for each table quarter that has one or more LEGIONES DAEMONICA units from your army wholly within it, provided your opponent does not have more units wholly within the same table quarter. For the purposes of this bullet point, exclude any units that are within 6\" of the centre of the battlefield.
-                      •Score 1 VP if one or more LEGIONES DAEMONICA units from your army are wholly within 6\" of the centre of the battlefield."
+•Score 1 VP for each table quarter that has one or more LEGIONES DAEMONICA units from your army wholly within it, provided your opponent does not have more units wholly within the same table quarter. For the purposes of this bullet point, exclude any units that are within 6\" of the centre of the battlefield.
+•Score 1 VP if one or more LEGIONES DAEMONICA units from your army are wholly within 6\" of the centre of the battlefield."
     },
     {
       "name": "Despoilers of Reality",
       "type": "Shadow Operations",
       "description": "If you select this objective, LEGIONES DAEMONICA INFANTRY units from your army can attempt the following action:
 
-                      Dark Ritual (Action): One or more LEGIONES DAEMONICA INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control that is not within your deployment zone and has not been corrupted by your army. The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been corrupted by your army.
+Dark Ritual (Action): One or more LEGIONES DAEMONICA INFANTRY units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control that is not within your deployment zone and has not been corrupted by your army. The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been corrupted by your army.
 
-                      Each time a unit from your army completes this action, score 4 VP and roll one D6 (adding 1 to the result if that unit is an ICON or INSTRUMENT unit): on a 6+, you gain 1 Warp Storm point."
+Each time a unit from your army completes this action, score 4 VP and roll one D6 (adding 1 to the result if that unit is an ICON or INSTRUMENT unit): on a 6+, you gain 1 Warp Storm point."
     },
   ]
 }

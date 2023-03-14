@@ -6,7 +6,7 @@
       "name": "Cull Order",
       "type": "Purge the Enemy",
       "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, select three Battlefield Roles (HQ, Troops, etc.) from the units in your opponent’s army. If your opponent’s army does not include at least three units with different Battlefield Roles, select as many Battlefield Roles as possible.
-                      At the end of the battle, for each Battlefield Role that was selected, score 5 VP if every enemy unit in your opponent’s army with that Battlefield Role has been destroyed."
+At the end of the battle, for each Battlefield Role that was selected, score 5 VP if every enemy unit in your opponent’s army with that Battlefield Role has been destroyed."
     },
   ]
 }

@@ -6,26 +6,26 @@
       "name": "A Leap of Faith",
       "type": "No Mercy, No Respite",
       "description": "At the end of the battle round, you can discard one Miracle Dice (this cannot be a Cherub dice) from your miracle dice pool. If you do so, you will gain a number of VP depending on the value of the Miracle dice that you discarded:
-                      •1-3: 1 VP
-                      •4-5: 2 VP
-                      •6: 3 VP
+•1-3: 1 VP
+•4-5: 2 VP
+•6: 3 VP
 
-                      You can score a maximum of 12 VP from this secondary objective per battle."
+You can score a maximum of 12 VP from this secondary objective per battle."
     },
     {
       "name": "Defend the Shrine",
       "type": "Battlefield Supremacy",
       "description": "If you select this objective, during the Resolve Pre-battle Abilities step of the mission, select one objective marker on the battlefield not in your deployment zone to be the Sacred Shrine objective marker (if the only objective marker on the battlefield is in your deployment zone, then this must be the Sacred Shrine objective marker).
 
-                      •At the end of your turn, score 3 VP if you control the Sacred Shrine objective marker and an ADEPTUS MINISTORUM unit from your army is within range of that objective marker.
-                      •At the end of the battle, if your opponent controls the Sacred Shrine objective marker, reduce the number of VP you have scored from this secondary objective by 3 (to a minimum of 0)."
+•At the end of your turn, score 3 VP if you control the Sacred Shrine objective marker and an ADEPTUS MINISTORUM unit from your army is within range of that objective marker.
+•At the end of the battle, if your opponent controls the Sacred Shrine objective marker, reduce the number of VP you have scored from this secondary objective by 3 (to a minimum of 0)."
     },
     {
       "name": "Sacred Grounds",
       "type": "Shadow Operations",
       "description": "Sacred Grounds (Action): One or more ADEPTA SORORITAS INFANTRY or CULT IMPERIALIS PRIEST units from your army can start to perform this action at the end of your Movement phase. Each unit from your army that starts to perform this action must be within range of a different objective marker you control that has not been consecrated by your army.
-                      The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been consecrated by your army, and until the end of the battle, that objective marker gains the Inspiring (Adeptus Ministorum) terrain trait (it is not considered to be a terrain feature for any other rules purposes).
-                      Each time a unit from your army completes this action, if the objective marker that was consecrated by that action is wholly within your deployment zone, score 1 VP; otherwise, score 4 VP."
+The action is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed, that objective marker is said to have been consecrated by your army, and until the end of the battle, that objective marker gains the Inspiring (Adeptus Ministorum) terrain trait (it is not considered to be a terrain feature for any other rules purposes).
+Each time a unit from your army completes this action, if the objective marker that was consecrated by that action is wholly within your deployment zone, score 1 VP; otherwise, score 4 VP."
     },
   ]
 }

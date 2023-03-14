@@ -6,19 +6,19 @@
       "name": "Take them Alive!",
       "type": "Purge the Enemy",
       "description": "At the end of the battle round:
-                      •Score 3 VP for each enemy CHARACTER or MONSTER unit that was destroyed by a melee attack made by a DRUKHARI unit from your army this battle round.
-                      •Score 1 VP for each other enemy unit that was destroyed by a melee attack made by a DRUKHARI unit from your army this battle round.
-                      •You can score a maximum of 5 VP per battle round from this secondary objective."
+•Score 3 VP for each enemy CHARACTER or MONSTER unit that was destroyed by a melee attack made by a DRUKHARI unit from your army this battle round.
+•Score 1 VP for each other enemy unit that was destroyed by a melee attack made by a DRUKHARI unit from your army this battle round.
+•You can score a maximum of 5 VP per battle round from this secondary objective."
     },
     {
       "name": "Fear and Terror",
       "type": "No Mercy, No Respite",
       "description": "Score 1VP each time one of the following happens:
-                      •An enemy unit fails a Morale test.
-                      •An enemy unit Falls Back.
-                      •An enemy unit fails an action.
+•An enemy unit fails a Morale test.
+•An enemy unit Falls Back.
+•An enemy unit fails an action.
 
-                      In addition, each time an enemy unit is destroyed by a melee attack made by a DRUKHARI model from your army, before removing the last model in that enemy unit from the battlefield, roll 2 D6: if the result equals or exceeds the Leadership characteristic of that enemy model, score 1VP. A model can, if it is resurrected for any reason, potentially contribute victory points due to this secondary objective several times."
+In addition, each time an enemy unit is destroyed by a melee attack made by a DRUKHARI model from your army, before removing the last model in that enemy unit from the battlefield, roll 2 D6: if the result equals or exceeds the Leadership characteristic of that enemy model, score 1VP. A model can, if it is resurrected for any reason, potentially contribute victory points due to this secondary objective several times."
     },
     {
       "name": "Herd the Prey",

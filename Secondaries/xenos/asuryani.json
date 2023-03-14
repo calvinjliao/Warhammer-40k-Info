@@ -6,27 +6,27 @@
       "name": "Wrath of Khaine",
       "type": "No Mercy, No Respite",
       "description": "At the end of the battle round:
-                      •Score 1 VP if one or more enemy units were destroyed by a ranged attack made by an ASPECT WARRIOR unit from your army this battle round.
-                      •Score 1 VP if one or more enemy units were destroyed by a melee attack made by a different ASPECT WARRIOR unit from your army this battle round.
-                      •Score 2 VP if both of the above bullet points were achieved this battle round."
+•Score 1 VP if one or more enemy units were destroyed by a ranged attack made by an ASPECT WARRIOR unit from your army this battle round.
+•Score 1 VP if one or more enemy units were destroyed by a melee attack made by a different ASPECT WARRIOR unit from your army this battle round.
+•Score 2 VP if both of the above bullet points were achieved this battle round."
     },
     {
       "name": "Scry Futures",
       "type": "Warpcraft",
       "description": "If you select this objective, ASURYANI PSYKER units from your army can attempt the following psychic action:
 
-                      Scry Futures (Psychic Action - Warp Charge 4): One ASURYANI PSYKER unit from your army can attempt to perform this psychic action in your Psychic phase if it is within range of an objective marker you control that has not yet been scried by your army. If this psychic action is completed, that objective marker is said to have been scried by your army.
+Scry Futures (Psychic Action - Warp Charge 4): One ASURYANI PSYKER unit from your army can attempt to perform this psychic action in your Psychic phase if it is within range of an objective marker you control that has not yet been scried by your army. If this psychic action is completed, that objective marker is said to have been scried by your army.
 
-                      Score 3 VP each time a unit from your army completes this psychic action."
+Score 3 VP each time a unit from your army completes this psychic action."
     },
     {
       "name": "Scout the Enemy",
       "type": "Shadow Operations",
       "description": "ASURYANI units from your army can attempt the following action:
 
-                      Scout the Enemy (Action): One ASURYANI unit from your army can start to perform this action at the end of your Movement phase if it is not within 6\" of your deployment zone. If the unit performing this action is a RANGERS unit, it is completed at the end of the turn; otherwise, it is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed:
-                      •Score 2 VP if the unit performing this action is not wholly within your opponent’s deployment zone.
-                      •Score 4 VP if the unit performing the action is wholly within your opponent’s deployment zone."
+Scout the Enemy (Action): One ASURYANI unit from your army can start to perform this action at the end of your Movement phase if it is not within 6\" of your deployment zone. If the unit performing this action is a RANGERS unit, it is completed at the end of the turn; otherwise, it is completed at the start of your next Command phase or at the end of the battle (whichever comes first). If completed:
+•Score 2 VP if the unit performing this action is not wholly within your opponent’s deployment zone.
+•Score 4 VP if the unit performing the action is wholly within your opponent’s deployment zone."
     },
   ]
 }

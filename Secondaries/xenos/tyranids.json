@@ -6,29 +6,29 @@
       "name": "Cranial Feasting",
       "type": "Purge the Enemy",
       "description": "Each time an enemy CHARACTER model or unit champion is destroyed by a melee attack made by a HIVE TENDRIL model from your army, roll one D6, adding 1 to the result if that HIVE TENDRIL model has the FEEDER TENDRILS keyword, and adding 2 to the result if the destroyed model has the CHARACTER keyword: on a 6+, you gain 1 Command point.
-                      At the end of the battle:
-                      •Score 3 VP if you gained 1 or more Command points during the battle due to this secondary objective.
-                      •Score 1 VP for each enemy unit champion that is destroyed, if it was destroyed by a melee attack made by a HIVE TENDRIL model from your army.
-                      •Score 3 VP for each enemy CHARACTER unit that is destroyed, if it was destroyed by a melee attack made by a HIVE TENDRIL model from your army.
-                      •Score an additional 3VP if the enemy WARLORD is destroyed, if it was destroyed by a melee attack made by a FEEDER TENDRILS model from your army."
+At the end of the battle:
+•Score 3 VP if you gained 1 or more Command points during the battle due to this secondary objective.
+•Score 1 VP for each enemy unit champion that is destroyed, if it was destroyed by a melee attack made by a HIVE TENDRIL model from your army.
+•Score 3 VP for each enemy CHARACTER unit that is destroyed, if it was destroyed by a melee attack made by a HIVE TENDRIL model from your army.
+•Score an additional 3VP if the enemy WARLORD is destroyed, if it was destroyed by a melee attack made by a FEEDER TENDRILS model from your army."
     },
     {
       "name": "Synaptic Insight",
       "type": "No Mercy, No Respite",
       "description": "If you select this objective, keep a Synaptic Kill points tally. Reset your Synaptic Kill points tally to 0 at the start of each battle round. Each time an enemy model is destroyed by a SYNAPSE model from your army:
-                      •If that enemy model had a Wounds characteristic of 3-5, gain 1 Synaptic Kill point.
-                      •If that enemy model had a Wounds characteristic of 6-9, gain 2 Synaptic Kill points.
-                      •If that enemy model had a Wounds characteristic of 10 or more, gain 3 Synaptic Kill points.
-                      At the end of the battle round, score 3 VP if your Synaptic Kill points tally is 5 or more. You can score a maximum of 12 VP per battle from this secondary objective."
+•If that enemy model had a Wounds characteristic of 3-5, gain 1 Synaptic Kill point.
+•If that enemy model had a Wounds characteristic of 6-9, gain 2 Synaptic Kill points.
+•If that enemy model had a Wounds characteristic of 10 or more, gain 3 Synaptic Kill points.
+At the end of the battle round, score 3 VP if your Synaptic Kill points tally is 5 or more. You can score a maximum of 12 VP per battle from this secondary objective."
     },
     {
       "name": "Space Nodes",
       "type": "Shadow Operations",
       "description": "If you select this objective, HIVE TENDRIL Troops units from your army can attempt the following action:
 
-                      Seed Spore Node (Action): One HIVE TENDRIL Troops unit from your army can start to perform this action at the end of your Movement phase from the second battle round onwards if it is within 6\" of your opponent’s deployment zone and not within 6\" of any Spore Node objective markers (see below). The action is completed at the end of your turn. If completed, place one objective marker anywhere within 1\" of the unit that completed this action. This objective marker represents a Spore Node, but does not count as an objective marker for any rules purposes other than for this secondary objective.
+Seed Spore Node (Action): One HIVE TENDRIL Troops unit from your army can start to perform this action at the end of your Movement phase from the second battle round onwards if it is within 6\" of your opponent’s deployment zone and not within 6\" of any Spore Node objective markers (see below). The action is completed at the end of your turn. If completed, place one objective marker anywhere within 1\" of the unit that completed this action. This objective marker represents a Spore Node, but does not count as an objective marker for any rules purposes other than for this secondary objective.
 
-                      Score 4 VP each time a unit from your army completes this action."
+Score 4 VP each time a unit from your army completes this action."
     },
   ]
 }

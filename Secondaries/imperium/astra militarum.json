@@ -11,20 +11,20 @@
       "name": "Inflexible Command",
       "type": "No Mercy, No Respite",
       "description": "At the end of your turn:
-                      •Score 2 VP if every PLATOON INFANTRY unit from your army is within 6\" of a friendly OFFICER unit.
-                      •Score 1 VP if every SQUADRON unit from your army is within 12\" of a friendly OFFICER unit.
-                      •Score 2 VP if any enemy units were destroyed by an ASTRA MILITARUM unit from your army this turn while that ASTRA MILITARUM unit was being affected by an Order.
+•Score 2 VP if every PLATOON INFANTRY unit from your army is within 6\" of a friendly OFFICER unit.
+•Score 1 VP if every SQUADRON unit from your army is within 12\" of a friendly OFFICER unit.
+•Score 2 VP if any enemy units were destroyed by an ASTRA MILITARUM unit from your army this turn while that ASTRA MILITARUM unit was being affected by an Order.
 
-                      For the purposes of this secondary objective:
-                      •While an OFFICER unit from your army is embarked within a TRANSPORT model, that TRANSPORT model is also considered to have the OFFICER keyword.
-                      •PLATOON VOX-CASTER units from your army that are within 24\" of any friendly VOX-CASTER OFFICER units count as being within 6\" instead."
+For the purposes of this secondary objective:
+•While an OFFICER unit from your army is embarked within a TRANSPORT model, that TRANSPORT model is also considered to have the OFFICER keyword.
+•PLATOON VOX-CASTER units from your army that are within 24\" of any friendly VOX-CASTER OFFICER units count as being within 6\" instead."
     },
     {
       "name": "Boots on the Ground",
       "type": "Battlefield Supremacy",
       "description": "At the end of each of your turns (excluding the first):
-                      •Score 1 VP for each table quarter that has one or more PLATOON INFANTRY units from your army wholly within it (excluding units that are within 3\" of the centre of the battlefield).
-                      •Score 1 VP if one or more REGIMENTAL STANDARD units from your army are either wholly within 6\" of the centre of the battlefield or wholly within your opponent’s deployment zone."
+•Score 1 VP for each table quarter that has one or more PLATOON INFANTRY units from your army wholly within it (excluding units that are within 3\" of the centre of the battlefield).
+•Score 1 VP if one or more REGIMENTAL STANDARD units from your army are either wholly within 6\" of the centre of the battlefield or wholly within your opponent’s deployment zone."
     },
   ]
 }
