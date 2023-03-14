@@ -24,6 +24,6 @@ In addition, each time an enemy unit is destroyed by a melee attack made by a DR
       "name": "Herd the Prey",
       "type": "Battlefield Supremacy",
       "description": "At the end of your turn, score 1 VP for each table quarter that does not have any enemy units (excluding AIRCRAFT units) wholly within it."
-    },
+    }
   ]
 }

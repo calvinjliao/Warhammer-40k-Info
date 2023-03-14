@@ -21,6 +21,6 @@ At the end of the battle, reduce the number of victory points you have earned fr
 Prospect (Action): One VOTANN INFANTRY or VOTANN BIKER unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker that is not within your deployment zone and has not already been prospected by your army. A unit cannot start this action while there are any enemy units (excluding AIRCRAFT units) within range of the same objective marker. The action is completed at the end of the turn. If completed, that objective marker is said to have been prospected by your army and you must roll one D6, adding 1 to the result if the unit that completed the action has the SCANNER keyword: on a 6+, that objective marker is a Rich Deposits objective marker.
 
 Each time a unit from your army completes this action, you score 3 VP. At the end of the battle, if you control one or more Rich Deposits markers, you score an additional 3 VP."
-    },
+    }
   ]
 }
