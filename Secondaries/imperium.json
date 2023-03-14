@@ -3,27 +3,27 @@
   "objectives": [
     {
       "name": "Adepta Sororitas",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/adepta%20sororitas.json"
     },
     {
       "name": "Adeptus Astartes",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/adeptus%20astartes.json"
     },
     {
       "name": "Adeptus Custodes",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/adeptus%20custodes.json"
     },
     {
       "name": "Adeptus Mechanicus",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/adeptus%20mechanicus.json"
     },
     {
       "name": "Astra Militarum",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/astra%20militarum.json"
     },
     {
       "name": "Black Templars",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/black%20templars.json"
     },
     {
       "name": "Blood Angels",
@@ -31,11 +31,11 @@
     },
     {
       "name": "Dark Angels",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/dark%20angels.json"
     },
     {
       "name": "Deathwatch",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/deathwatch.json"
     },
     {
       "name": "Grey Knights",

@@ -3,59 +3,59 @@
   "objectives": [
     {
       "name": "Alpha Legion",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/alpha%20legion.json"
     },
     {
       "name": "Black Legion",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/black%20legion.json"
     },
     {
       "name": "Chaos Daemons",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/chaos%20daemons.json"
     },
     {
       "name": "Chaos Knights",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/chaos%20knights.json"
     },
     {
       "name": "Creations of Bile",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/creations%20of%20bile.json"
     },
     {
       "name": "Death Guard",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/death%20guard.json"
     },
     {
       "name": "Emperor's Children",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/emperor's%20children.json"
     },
     {
       "name": "Iron Warriors",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/iron%20warriors.json"
     },
     {
       "name": "Night Lords",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/night%20lords.json"
     },
     {
       "name": "Red Corsairs",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/red%20corsairs.json"
     },
     {
       "name": "Thousand Sons",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/thousand%20sons.json"
     },
     {
       "name": "Traitoris Astartes",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/traitoris%20astartes.json"
     },
     {
       "name": "Word Bearers",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/word%20bearers.json"
     },
     {
       "name": "World Eaters",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/chaos/world%20eaters.json"
     },
   ]
 }
