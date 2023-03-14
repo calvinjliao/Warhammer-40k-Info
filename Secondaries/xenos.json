@@ -3,39 +3,39 @@
   "objectives": [
     {
       "name": "Asuryani",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/asuryani.json"
     },
     {
       "name": "Drukhari",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/drukhari.json"
     },
     {
       "name": "Genestealer Cults",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/genestealer%20cults.json"
     },
     {
       "name": "Harlequins",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/harlequins.json"
     },
     {
       "name": "Leagues of Votann",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/leagues%20of%20votann.json"
     },
     {
       "name": "Necrons",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/necrons.json"
     },
     {
       "name": "Orks",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/orks.json"
     },
     {
       "name": "T'au Empire",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/t'au%20empire.json"
     },
     {
       "name": "Tyranids",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/xenos/tyranids.json"
     },
   ]
 }

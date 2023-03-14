@@ -27,7 +27,7 @@
     },
     {
       "name": "Blood Angels",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/blood%20angels.json"
     },
     {
       "name": "Dark Angels",
@@ -39,39 +39,39 @@
     },
     {
       "name": "Grey Knights",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/grey%20knights.json"
     },
     {
       "name": "Imperial Fists",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/imperial%20fists.json"
     },
     {
       "name": "Imperial Knights",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/imperial%20knights.json"
     },
     {
       "name": "Iron Hands",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/iron%20hands.json"
     },
     {
       "name": "Raven Guard",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/raven%20guard.json"
     },
     {
       "name": "Salamanders",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/salamanders.json"
     },
     {
       "name": "Space Wolves",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/space%20wolves.json"
     },
     {
       "name": "Ultramarines",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/ultramarines.json"
     },
     {
       "name": "White Scars",
-      "url": "temporary"
+      "url": "https://raw.githubusercontent.com/calvinjliao/Warhammer-40k-Info/main/Secondaries/imperium/white%20scars.json"
     },
   ]
 }
